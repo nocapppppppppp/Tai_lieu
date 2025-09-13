@@ -7,23 +7,13 @@ Dự án hướng tới việc xây dựng hệ thống hỗ trợ quản lý ch
 
 ## 📑 Mục lục Tài liệu
 
-
-1. [⚙️ Workflow (Quy trình làm việc)](./Document/Workflow.md)  
-   - Phân Tích và Thiết Kế 
-   - Hiện Thực và Kiểm Thử  
-   - Triển Khai và Bảo Trì  
-
-2. [📌 Plan (Kế hoạch dự án)](./Document/Plan.md)  
-   - Mục tiêu dự án  
-   - Các giai đoạn chính  
-   - Phân công công việc  
-
-3. [🐙 GitHub Guide (Hướng dẫn dùng GitHub)](./Document/github.md)  
-   - Tạo Organization  
-   - Mời thành viên  
-   - Tạo repositories  
-   - Quy tắc code (branch, commit, pull request, merge)  
-
+| 📂 Tài liệu                | Nội dung chính                                                                 |
+|----------------------------|--------------------------------------------------------------------------------|
+| [⚙️ Workflow](./Document/Workflow.md)         | Phân tích & thiết kế • Hiện thực & kiểm thử • Triển khai & bảo trì |
+| [📌 Plan](./Document/Plan.md)                 | Mục tiêu dự án • Các giai đoạn chính • Phân công công việc |
+| [🐙 GitHub Guide](./Document/Github.md)       | Tạo Organization • Mời thành viên • Tạo repositories • Quy tắc code (branch, commit, PR, merge) |
+| [🧩 Use Case Diagrams](./Document/Use%20Case%20Diagrams.md) | Khái niệm • Thành phần • Quan hệ (Include, Extend, Generalization) • Ví dụ ATM |
+| [📝 Use Case Scenario](./Document/Use%20Case%20Scenario.md) | Cấu trúc chi tiết • Basic Flow • Alternative Flows • Exception Flows • Ví dụ Đặt hàng |
 ---
 
 📌 Tất cả tài liệu chi tiết được lưu trong thư mục [`Document/`](./Document). 
