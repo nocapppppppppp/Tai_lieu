@@ -14,6 +14,10 @@ Dự án hướng tới việc xây dựng hệ thống hỗ trợ quản lý ch
 | [🐙 GitHub Guide](./Document/Github.md)       | Tạo Organization • Mời thành viên • Tạo repositories • Quy tắc code (branch, commit, PR, merge) |
 | [🧩 Use Case Diagrams](./Document/Use%20Case%20Diagrams.md) | Khái niệm • Thành phần • Quan hệ (Include, Extend, Generalization) • Ví dụ ATM |
 | [📝 Use Case Scenario](./Document/Use%20Case%20Scenario.md) | Cấu trúc chi tiết • Basic Flow • Alternative Flows • Exception Flows • Ví dụ Đặt hàng |
+| [🏃 Activity Diagrams](./Document/Activity%20Diagrams.md) | Hành vi hệ thống • Action • Decision • Fork/Join • Swimlane|
+| [📨 Sequence Diagrams](./Document/Sequence%20Diagrams.md) | Message • Lifeline • Combined Fragment (alt, opt, loop, par...)|
+| [🔁 State Machine Diagram](./Document/State%20Machine%20Diagram.md) | Khái niệm • Thành phần chính • Trạng thái • Transition|
+
 ---
 
 📌 Tất cả tài liệu chi tiết được lưu trong thư mục [`Document/`](./Document). 
