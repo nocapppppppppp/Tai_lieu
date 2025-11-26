@@ -17,6 +17,10 @@ Dự án hướng tới việc xây dựng hệ thống hỗ trợ quản lý ch
 | [🏃 Activity Diagrams](./Document/Activity%20Diagrams.md) | Hành vi hệ thống • Action • Decision • Fork/Join • Swimlane|
 | [📨 Sequence Diagrams](./Document/Sequence%20Diagrams.md) | Message • Lifeline • Combined Fragment (alt, opt, loop, par...)|
 | [🔁 State Machine Diagram](./Document/State%20Machine%20Diagram.md) | Khái niệm • Thành phần chính • Trạng thái • Transition|
+| [🖥 Deployment Diagrams](./Document/Deployment%20Diagrams.md)                                           | Triển khai artifacts • Node • Communication path • Instance & Specification level  |
+| [📦 Component Diagram](./Document/Component%20Diagram.md)                                               | Mô tả các module hệ thống • Interface • Port • Connector • Realization             |
+| [🏗 Class diagram and Method descriptions](./Document/Class%20diagram%20and%20Method%20descriptions.md) | Lớp, phương thức, thuộc tính • Quan hệ giữa lớp • Sơ đồ chi tiết cho code          |
+| [🧪 Test Case](./Document/Test%20Case.md)                                                               | Danh sách các trường hợp kiểm thử • Functional • Non-functional • Use-case testing |
 
 ---
 
